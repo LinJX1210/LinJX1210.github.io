@@ -358,6 +358,8 @@ pre {
   white-space: pre-wrap;
   overflow: auto;
   word-wrap: break-word;
+  width: 100%;
+  max-width: 100%;
 }
 @media screen and (max-width: 580px) {
   .main .main__2-col,
